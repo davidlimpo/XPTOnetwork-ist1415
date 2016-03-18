@@ -1,8 +1,3 @@
-O objectivo deste projecto é emular, com recurso ao software Netkit [Netkit],
-uma rede representativa da realidade de uma pequena empresa. Esta rede
-inclui diversos computadores, dispositivos de rede e serviços de WWW, correio
-electrónico, monitorização, DNS e DHCP. 
-
 This is a project a network that represents a small company is emulated, using the Netkit tool. The network includes several computers, network devices 
 and web services, email, monitoring, DNS and DHCP.
 
